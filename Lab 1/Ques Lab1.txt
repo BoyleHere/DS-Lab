@@ -1,0 +1,7 @@
+Q1) Write a c program to find an element in a given array using linear search.
+Q2) Write a c program to find an element in a given array using binary search.
+Q3) Sort the given Array elements using bubble sort.
+Q4) Sort the given Array elements using selection sort.
+Q5) Read 2 matrices A & B, create a matrix C such that C(ij) = max(A(ij), B(ij)).
+Q6) Read a square matrix. Check if it is magic square or not. -> sum of all columns same
+Q7) Explore insertion sort.
