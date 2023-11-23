@@ -222,6 +222,8 @@ int main()
     insertAtEnd(30);
     insertAtEnd(20);
     display();
+    reverseList();
+    display();
     sort();
     display();
     return 0;
